@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on amazing projects
 - 🤔 I’m looking for help with programming and coding problems that i may encounter
-- 💬 Ask me about my inetrest 
+- 💬 Ask me about my interests 
 - 📫 How to reach me: you email me at princengojo@g.cjc.edu.ph
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am deeply interested in philosohpy and metaphysics
