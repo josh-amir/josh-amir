@@ -1,7 +1,7 @@
 About me: 
 
 - 🔭 I’m currently working on my career in computer science
-- 🌱 I’m currently learning Java, HTML, CSS and JS
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on amazing projects
 - 🤔 I’m looking for help with programming and coding problems that i may encounter
 - 💬 Ask me about my interests 
