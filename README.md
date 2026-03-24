@@ -2,7 +2,7 @@
 
 I'm a Computer Science student from the Philippines with a passion for 
 building technology that creates real-world impact. My work sits at the 
-intersection of **AI/ML**, **AR/VR**, and **social innovation** — 
+intersection of **AI/ML**, **Data Science**, and **social innovation** — 
 particularly in underserved Filipino communities.
 
 ---
