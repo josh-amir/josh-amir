@@ -1,12 +1,49 @@
-About me: 
+# Hi, I'm Prince Joshua 👋
 
-- 🔭 I’m currently working on my career in computer science
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on amazing projects
-- 🤔 I’m looking for help with programming and coding problems that i may encounter
-- 💬 Ask me about my interests 
-- 📫 How to reach me: you email me at princengojo@g.cjc.edu.ph
-- 🎙️You can also visit my linktree website as I'm currently working on my portfolio website. For now, visit linktr.ee/pjngojo to connect with me on various social media platforms, I write blogs and run a podcast on the side. 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am deeply interested in philosohpy, metaphysics and law. 
+I'm a Computer Science student from the Philippines with a passion for 
+building technology that creates real-world impact. My work sits at the 
+intersection of **AI/ML**, **AR/VR**, and **social innovation** — 
+particularly in underserved Filipino communities.
 
+---
+
+## 🚀 What I'm Building
+-  **Clinic Management System** - currently building a software system for my college's school clinic to stream line patient management.
+- 🤖 **Indoor Positioning System** — WiFi RSSI + Transfer Learning for 
+  accurate indoor navigation for my CS Thesis
+- 📱 **Coin Identifier App** — Android app using Jetpack Compose & Kotlin
+
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · Kotlin · JavaScript · Dart · Java · SQL  
+**Frameworks & Tools:** Flutter · Unity · TensorFlow · Jetpack Compose  
+**Platforms:** Android · Google Colab · Kaggle · GitHub
+
+---
+
+## 🌱 Currently Exploring
+
+- Deep Learning for neuroimaging and forensic applications
+- Fairness in algorithmic systems (with Filipino-specific datasets)
+- Blockchain for public financial transparency
+- Preparing for graduate studies in AI/ML
+
+---
+
+## 🧠 Beyond Code
+
+When I'm not coding, I'm competing in **debate**, playing **badminton**, 
+reading philosophy and political theory, or writing on my blog. I'm 
+deeply interested in AI ethics, digital governance, and the philosophical 
+dimensions of technology.
+
+---
+
+## 📬 Let's Connect
+
+- 🔗 [linktr.ee/pjngojo](https://linktr.ee/pjngojo) — blog, podcast & socials  
+- 📧 princengojo@g.cjc.edu.ph  
+- 😄 he/him
