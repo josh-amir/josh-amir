@@ -35,7 +35,7 @@ particularly in underserved Filipino communities.
 
 ## 🧠 Beyond Code
 
-When I'm not coding, I'm competing in **debate**, playing **badminton**, 
+When I'm not coding, I'm competing in **debate**, 
 reading philosophy and political theory, or writing on my blog. I'm 
 deeply interested in AI ethics, digital governance, and the philosophical 
 dimensions of technology.
