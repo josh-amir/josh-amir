@@ -36,6 +36,6 @@ When I am not developing software, I actively compete in **Asian Parliamentary d
 
 ## Let's Connect
 
-*   **Portfolio & Media:** [linktr.ee/pjngojo](https://linktr.ee/pjngojo)
+*   **Portfolio & Media:** [www.pjngojo.me](www.pjngojo.me)
 *   **Academic Email:** princengojo@g.cjc.edu.ph
 *   **Pronouns:** he/him
