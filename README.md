@@ -9,8 +9,6 @@ particularly in underserved Filipino communities.
 
 ## 🚀 What I'm Building
 -  **Clinic Management System** - currently building a software system for my college's school clinic to stream line patient management.
-- 🤖 **Indoor Positioning System** — WiFi RSSI + Transfer Learning for 
-  accurate indoor navigation for my CS Thesis
 - 📱 **Coin Identifier App** — Android app using Jetpack Compose & Kotlin
 
 
