@@ -4,17 +4,22 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
 </a>
 
-I am a Computer Science student from the Philippines dedicated to engineering software that drives tangible social impact. My academic and development interests sit firmly at the intersection of **Machine Learning**, **Data Science**, **AI Research and Social Innovation**
+### Computer Science Undergraduate | Machine Learning Intern @ Flyrank | AI Researcher & Project Manager
+
+I am a Computer Science student from the Philippines dedicated to engineering intelligent systems that drive tangible social impact. My work operates at the intersection of **Machine Learning**, **Data Science**, and **Social Innovation**—with a core focus on advancing technical research to modernize legal, educational, and healthcare infrastructure in underserved communities.
+
 ---
 
-## 🛠️ Current Projects
+## 🚀 Experience & Current Projects
 
+*   **Machine Learning Intern @ Flyrank**  
+    Focusing on Data Engineering, Artificial Intelligence, and building scalable, intelligent systems.
 *   **Filipino Sign Language (FSL) on Resource-Constrained Devices**  
-    *Senior CS Thesis* • Investigating methods to efficiently deploy real-time FSL recognition models on consumer-grade hardware. Focusing on **Edge Optimization**, **AI Quantization**, **PoseTransformers**, and **MediaPipe**.
+    *Senior CS Thesis* • Investigating methods to efficiently deploy real-time FSL recognition models on consumer-grade hardware. Specialized research focusing on **Edge Optimization**, **AI Quantization**, **PoseTransformers**, and **MediaPipe**.
 *   **Centralized School Clinic Patient Management System**  
-    *Coursework* • Building a responsive, secure desktop application using **JavaFX** and **Supabase** to streamline clinical workflows and patient record-keeping with robust data persistence.
+    *Coursework* • Engineering a responsive, secure desktop application using **JavaFX** and **Supabase** to streamline clinical workflows and data persistence.
 *   **Sinsilyo (Philippine Coin Identifier App)**  
-    *Independent Project* • Served as Project Manager and Lead Front-End Engineer for an accessibility-focused mobile application built to assist visually impaired Filipinos in independent financial transactions.
+    *Independent Project* • Served as Project Manager and Lead Front-End Engineer for an accessibility-focused mobile application built to assist visually impaired Filipinos.
 
 ---
 
@@ -26,11 +31,11 @@ I am a Computer Science student from the Philippines dedicated to engineering so
 
 ---
 
-## 📚 Academic & Research Interests
+## 📚 Academic & Applied Research Interests
 
-*   **Computer Science & Law:** Algorithmic fairness, digital governance, and AI ethics within the framework of the Philippine legal system.
-*   **Deep Learning & Vision:** Investigating sequential architectures, computer vision pipelines, and optimization for edge devices.
-*   **Future Trajectory:** Preparing for interdisciplinary graduate studies to bridge technical software execution with rigorous ethical and philosophical frameworks.
+*   **Intelligent Systems & Applied AI:** Optimizing deep learning models for edge deployment and resource-constrained environments.
+*   **Computer Science & Law:** Investigating algorithmic fairness, digital governance, and AI ethics within the framework of the Philippine legal system.
+*   **Future Trajectory:** Preparing for interdisciplinary graduate research to bridge advanced AI development with rigorous ethical and philosophical frameworks.
 
 ---
 
