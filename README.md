@@ -17,7 +17,7 @@ I am a Computer Science student from the Philippines dedicated to engineering in
 *   **Filipino Sign Language (FSL) on Resource-Constrained Devices**  
     *Senior CS Thesis* • Investigating methods to efficiently deploy real-time FSL recognition models on consumer-grade hardware. Specialized research focusing on **Edge Optimization**, **AI Quantization**, **PoseTransformers**, and **MediaPipe**.
 *   **Centralized School Clinic Patient Management System**  
-    *Coursework* • Engineering a responsive, secure desktop application using **JavaFX** and **Supabase** to streamline clinical workflows and data persistence.
+    *Coursework* • Engineering a responsive, secure desktop application using **JavaFX** to streamline clinical workflows and data persistence.
 *   **Sinsilyo (Philippine Coin Identifier App)**  
     *Independent Project* • Served as Project Manager and Lead Front-End Engineer for an accessibility-focused mobile application built to assist visually impaired Filipinos.
 
