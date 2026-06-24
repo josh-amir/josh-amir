@@ -4,8 +4,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
 </a>
 
-I am a Computer Science student from the Philippines dedicated to engineering software that drives tangible social impact. My academic and development interests sit firmly at the intersection of **Machine Learning**, **Data Science**, and **Social Innovation**—specifically modernizing legal, educational, and healthcare systems in underserved communities.
-
+I am a Computer Science student from the Philippines dedicated to engineering software that drives tangible social impact. My academic and development interests sit firmly at the intersection of **Machine Learning**, **Data Science**, **AI Research and Social Innovation**
 ---
 
 ## 🛠️ Current Projects
