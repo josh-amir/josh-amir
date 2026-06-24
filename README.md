@@ -19,7 +19,7 @@ I am a Computer Science student from the Philippines dedicated to engineering in
 *   **Centralized School Clinic Patient Management System**  
     *Coursework* • Engineering a responsive, secure desktop application using **JavaFX** to streamline clinical workflows and data persistence.
 *   **Sinsilyo (Philippine Coin Identifier App)**  
-    *Independent Project* • Served as Project Manager and Lead Front-End Engineer for an accessibility-focused mobile application built to assist visually impaired Filipinos.
+    *Coursework* • Served as Project Manager and Lead Front-End Engineer for an accessibility-focused mobile application built to assist visually impaired Filipinos.
 
 ---
 
