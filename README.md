@@ -6,7 +6,7 @@ I am a Computer Science student from the Philippines focused on building softwar
 
 ## Current Projects
 
-*   **Filipino Sign Language (FSL) Interpreter** — Developing a real-time gesture recognition system for my undergraduate thesis using Python, MediaPipe, and PoseTransformer architectures.
+*   **Filipino Sign Language (FSL) In Resource-Constained Devices** — For my senior CS thesis. I am investing how can we effiently deploy and make something work a model for FSL to run on consumer grade hardware. Focusing on Edge Optimization, AI Quantization, and Machine Learning,
 *   **School Clinic Patient Management System** — Building a responsive desktop application using JavaFX and SQLite to streamline patient record-keeping and clinical workflows.
 *   **Sinsilyo (Philippine Coin Identifier App)** — Served as Project Manager and Lead Front-End Engineer for an accessibility-focused mobile application built to assist visually impaired Filipinos.
 
