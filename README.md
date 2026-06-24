@@ -1,52 +1,118 @@
-# Hi, I'm Prince Joshua 👋
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Prince+Joshua+%F0%9F%91%8B;Data+Scientist+%7C+ML%2FAI+Engineer;AI+Researcher+%7C+Project+Manager;Building+AI+for+Social+Impact" alt="Typing SVG" />
+</div>
 
-<a href="https://www.linkedin.com/in/pjoshuangojo" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-</a>
-
-### Computer Science Undergraduate | Machine Learning Intern @ Flyrank | AI Researcher & Project Manager
-
-I am a Computer Science student from the Philippines dedicated to engineering intelligent systems that drive tangible social impact. My work operates at the intersection of **Machine Learning**, **Data Science**, and **Social Innovation**—with a core focus on advancing technical research to modernize legal, educational, and healthcare infrastructure in underserved communities.
-
----
-
-## 🚀 Experience & Current Projects
-
-*   **Machine Learning Intern @ Flyrank**  
-    Focusing on Data Engineering, Artificial Intelligence, and building scalable, intelligent systems.
-*   **Filipino Sign Language (FSL) on Resource-Constrained Devices**  
-    *Senior CS Thesis* • Investigating methods to efficiently deploy real-time FSL recognition models on consumer-grade hardware. Specialized research focusing on **Edge Optimization**, **AI Quantization**, **BiLSTM**, and **MediaPipe**.
-*   **Centralized School Clinic Patient Management System**  
-    *Coursework* • Engineering a responsive, secure desktop application using **JavaFX** to streamline clinical workflows and data persistence.
-*   **Sinsilyo (Philippine Coin Identifier App)**  
-    *Coursework* • Served as Project Manager and Lead Front-End Engineer for an accessibility-focused mobile application built to assist visually impaired Filipinos.
+<p align="center">
+  <a href="https://www.linkedin.com/in/pjoshuangojo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:princengojo@g.cjc.edu.ph"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=josh-amir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-## 💻 Tech Stack
+### 🧠 About Me
 
-*   **Languages:** Python • Java • Kotlin • Dart • JavaScript • SQL
-*   **Frameworks & Libraries:** Jetpack Compose • JavaFX • Flutter • MediaPipe • TensorFlow
-*   **Databases & Tools:** Supabase • SQLite • Git • GitHub • IntelliJ IDEA Ultimate
-
----
-
-## 📚 Academic & Applied Research Interests
-
-*   **Intelligent Systems & Applied AI:** Optimizing deep learning models for edge deployment and resource-constrained environments.
-*   **Computer Science & Law:** Investigating algorithmic fairness, digital governance, and AI ethics within the framework of the Philippine legal system.
-*   **Future Trajectory:** Preparing for interdisciplinary graduate research to bridge advanced AI development with rigorous ethical and philosophical frameworks.
+Computer Science undergraduate from the Philippines with a passion for **Data Science**, **Machine Learning**, and **AI Research**.  
+I engineer intelligent systems that intersect **social innovation** and **applied research** – specializing in edge AI, model optimization, and ethical technology for underserved communities.
 
 ---
 
-## 🎙️ Beyond Code
+### 💼 Experience & Featured Projects
 
-When I'm not deep in an IDE, I actively compete in **Asian Parliamentary debate** (specializing in First Speaker and Whip roles), analyze institutional power dynamics, and serve in student department leadership. I am deeply invested in public accountability, digital rights, and the ethical dimensions of emerging technology.
+- 🔹 **Machine Learning Intern @ Flyrank**  
+  *Data Engineering & Scalable AI Systems*
+
+- 🔬 **FSL Recognition on Edge Devices** *(Senior Thesis)*  
+  `Edge AI` `Model Quantization` `BiLSTM` `MediaPipe` `TensorFlow`
+
+- 🪙 **Sinsilyo – Coin Identifier for the Visually Impaired**  
+  *Project Manager & Lead Front‑End Engineer* — Flutter app with real‑time CV feedback
+
+- 🏥 **School Clinic Management System**  
+  *Full‑Stack Desktop Application* — JavaFX + SQL, secure patient data workflows
 
 ---
 
-## ✉️ Let's Connect
+### 🛠️ Tech Stack & Tools
 
-*   **LinkedIn:** [linkedin.com/in/pjoshuangojo](https://www.linkedin.com/in/pjoshuangojo)
-*   **Academic Email:** princengojo@g.cjc.edu.ph
-*   **Pronouns:** he/him
+#### 🤖 AI / ML / Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+#### ⚙️ ML Engineering & Edge Deployment
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00C2FF?style=flat&logo=google&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+#### 📱 App Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+#### 🗄️ Data & Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+#### 🔧 Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📚 Research & Interests
+
+- 🧪 **Applied AI & Edge Intelligence** – model optimization, quantization, on‑device ML
+- ⚖️ **CS × Law** – algorithmic fairness, digital governance, AI ethics in the Philippine context
+- 🎓 **Graduate Ambitions** – interdisciplinary research fusing advanced AI with ethics and policy
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josh-amir&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-amir&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josh-amir&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=josh-amir&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+</div>
+
+---
+
+### 🎙️ Beyond the Code
+
+🎤 Competitive **Asian Parliamentary Debater** (First Speaker / Whip)  
+🏛️ Student leader passionate about digital rights, public accountability, and institutional analysis  
+📖 Forever curious about the ethical dimensions of emerging technology
+
+---
+
+### ✉️ Let’s Collaborate
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pjoshuangojo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:princengojo@g.cjc.edu.ph"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
