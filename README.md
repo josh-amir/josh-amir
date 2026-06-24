@@ -15,7 +15,7 @@ I am a Computer Science student from the Philippines dedicated to engineering in
 *   **Machine Learning Intern @ Flyrank**  
     Focusing on Data Engineering, Artificial Intelligence, and building scalable, intelligent systems.
 *   **Filipino Sign Language (FSL) on Resource-Constrained Devices**  
-    *Senior CS Thesis* • Investigating methods to efficiently deploy real-time FSL recognition models on consumer-grade hardware. Specialized research focusing on **Edge Optimization**, **AI Quantization**, **PoseTransformers**, and **MediaPipe**.
+    *Senior CS Thesis* • Investigating methods to efficiently deploy real-time FSL recognition models on consumer-grade hardware. Specialized research focusing on **Edge Optimization**, **AI Quantization**, **BiLSTM**, and **MediaPipe**.
 *   **Centralized School Clinic Patient Management System**  
     *Coursework* • Engineering a responsive, secure desktop application using **JavaFX** to streamline clinical workflows and data persistence.
 *   **Sinsilyo (Philippine Coin Identifier App)**  
